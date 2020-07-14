@@ -268,12 +268,17 @@ input.inverted::placeholder{
 	background-size:auto 100%;
 	background-position:100%;
 	
-	h1 {
-		text-transform: capitalize;
+	h1, h1 span {
+		text-transform: uppercase;
 		font-weight: 900;
+		strong {
+			color: #FCD901;
+		}
 	}
-	h1 strong {
-		color: #FCD901;
+	.block-hero-2 p{
+		font-size: 22px;
+		font-weight: 700;
+		color:#1C0248;
 	}
 }
 .block-hero-2,.block-hero-2 .columns{
