@@ -6,7 +6,7 @@ description: Join the global movement to save coral reefs. The Reef App is creat
   an experience empowering everyone to participate in the global mission to save coral
   reefs and is currently in early stage development. Signup to be notified of launch
   and participate in research
-baseurl: "/thereefapp"
+baseurl: ''
 url: lefke.github.com
 defaults:
 - scope:
