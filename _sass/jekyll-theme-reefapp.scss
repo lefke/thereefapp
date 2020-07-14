@@ -255,8 +255,8 @@ input.inverted::placeholder{
 }
 }
 .block-hero-2{
-	--bg:#ffcb3c;
-	--text:#fff;
+	--bg:#FEA8C3;
+	--text:#1C0248;
 	-ms-flex-direction:column;
 	flex-direction:column;
 	-ms-flex-pack:center;
@@ -266,7 +266,15 @@ input.inverted::placeholder{
 	color:var(--text);
 	background-repeat:no-repeat;
 	background-size:auto 100%;
-	background-position:100%
+	background-position:100%;
+	
+	h1 {
+		text-transform: capitalize;
+		font-weight: 900;
+	}
+	h1 strong {
+		color: #FCD901;
+	}
 }
 .block-hero-2,.block-hero-2 .columns{
 	display:-ms-flexbox;
