@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: The <span class='highlight'>Reef</span> App
-  content: Join the global movement to save coral reefs
+  content: Join the global movement<br>save coral reefs
   cta:
     enabled: true
     url: https://emailoctopus.com/lists/b85ffca6-c5c0-11ea-a3d0-06b4694bee2a/forms/subscribe
