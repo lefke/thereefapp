@@ -8,6 +8,8 @@ description: Join the global movement to save coral reefs. The Reef App is creat
   and participate in research
 baseurl: ''
 url: lefke.github.com
+sass:
+  sass_dir: _sass
 defaults:
 - scope:
     path: ''
