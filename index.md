@@ -12,9 +12,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Signup
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/07/14/iphone-x-mockup-tilt-left.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/07/14/website-background.png"
 
 ---
 foo bar
