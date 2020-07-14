@@ -9,6 +9,7 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         <h2>{{ section.content }}</h2>
         {% if section.cta and section.cta.enabled == true %}
         <a class="button primary" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+        <p>Be the first to hear when The Reef App launches<p>
         {% endif %}
       </div>
       <div class="column media">
