@@ -9,7 +9,7 @@ page_sections:
   content: Join the global movement to save coral reefs
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://emailoctopus.com/lists/b85ffca6-c5c0-11ea-a3d0-06b4694bee2a/forms/subscribe
     button_text: Signup
   image:
     image: "/uploads/2020/07/14/iphone-x-mockup-tilt-left.png"
