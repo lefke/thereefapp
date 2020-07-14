@@ -13,7 +13,7 @@ page_sections:
     button_text: Signup
   image:
     image: "/uploads/2020/07/14/iphone-x-mockup-tilt-left-2.png"
-    alt_text: Product Shot
+    alt_text: 'Product Shot '
   background_image: "/uploads/2020/07/14/website-background-3.png"
 
 ---
