@@ -14,7 +14,7 @@ page_sections:
   image:
     image: "/uploads/2020/07/14/iphone-x-mockup-tilt-left.png"
     alt_text: Product Shot
-  background_image: "/uploads/2020/07/14/website-background-2.png"
+  background_image: "/uploads/2020/07/14/website-background.png"
 
 ---
 foo bar
