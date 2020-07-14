@@ -2,9 +2,10 @@
 title: The Reef App
 author: lefke.co.uk
 email: hello@thereefapp.com
-description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks
-  feature. This theme provides a set of page-level components and a pre-configured
-  Forestry Blocks UI that will empower content editors to construct their own webpages.
+description: Join the global movement to save coral reefs. The Reef App is creating
+  an experience empowering everyone to participate in the global mission to save coral
+  reefs and is currently in early stage development. Signup to be notified of launch
+  and participate in research
 baseurl: "/thereefapp"
 url: lefke.github.com
 defaults:
