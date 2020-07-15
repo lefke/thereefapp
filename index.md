@@ -15,15 +15,6 @@ page_sections:
     image: "/uploads/2020/07/14/iphone-x-mockup-tilt-left.png"
     alt_text: 'Product Shot '
   background_image: "/uploads/2020/07/14/website-background-3.png"
-- template: simple-footer
-  block: footer-1
-  content: ''
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: <span class="hljs-tag">&lt;ion-icon name="heart"&gt;&lt;/ion-icon&gt;</span>
 
 ---
 foo bar
