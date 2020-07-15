@@ -23,7 +23,7 @@ page_sections:
   image: ''
   col_2: ''
   col_3: ''
-  col_4: ''
+  col_4: <span class="hljs-tag">&lt;ion-icon name="heart"&gt;&lt;/ion-icon&gt;</span>
 
 ---
 foo bar
